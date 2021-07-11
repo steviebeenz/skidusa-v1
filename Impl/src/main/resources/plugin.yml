@@ -1,0 +1,14 @@
+name: Skidusa
+version: 0.5
+main: com.gladurbad.medusa.MedusaPlugin
+authors: [Spiriten, GladUrBad, Tecnio]
+description: Skidusa Anticheat
+
+commands:
+  medusa:
+    description: Commands for Skidusa Anticheat.
+    usage: /skidusa
+    aliases: [anticheat, ac]
+    permission: skidusa.commands
+
+
